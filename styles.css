@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+body{
+    background-image: url("CodeBoy-codes.png");
+    height: 1200px;
+}
+nav{
+    background-color: black;
+    padding: 20px;
+    width: 1520px;
+    position: fixed;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    float: right;
+    position: relative;
+    bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    right: 30px;
+    margin: 12px;
+}
